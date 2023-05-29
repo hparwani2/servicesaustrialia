@@ -1,1 +1,8 @@
 /* below the fold CSS goes here */
+@font-face {
+    font-display: block;
+    font-family: Material Icons;
+    font-style: normal;
+    font-weight: 400;
+    src: local("Material Icons"),local("MaterialIcons-Regular"),url(/styles/fonts/MaterialIcons-Regular.woff2) format("woff2"),url(/styles/fonts/MaterialIcons-Regular.woff) format("woff"),url(/styles/fonts/MaterialIcons-Regular.ttf) format("truetype");
+}
